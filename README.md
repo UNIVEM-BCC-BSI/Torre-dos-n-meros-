@@ -1,6 +1,6 @@
 # A Torre dos Números
 Olá, este é nosso projeto de game: A Torre dos Números
-
+## Roteiro
 Há muitos séculos atrás...
 Havia um humano considerado o maior enigmático de sua era. Ele conquistou fama resolvendo problemas que ninguém mais conseguia.
 
