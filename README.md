@@ -1,5 +1,5 @@
 # A Torre dos Números
-Olá, este é nosso projeto de game: A Torre dos Números
+Olá, este é nosso projeto de game: A Torre dos Números!
 ## Roteiro
 Há muitos séculos atrás...
 Havia um humano considerado o maior enigmático de sua era. Ele conquistou fama resolvendo problemas que ninguém mais conseguia.
@@ -211,48 +211,3 @@ Ao passarem pela porta, encontram uma sala silenciosa e limpa. No centro, uma es
 — E a torre parece saber quem somos... — responde o jogador, antes de começarem a subir.
 
 Fim do 3º andar.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Impeachment do Vinícius
